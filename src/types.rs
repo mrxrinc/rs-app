@@ -12,10 +12,10 @@ Arrays
 
 
 pub fn run() {
-    // Default is "i32"
+    // Default is "i32" for integers
     let x = 1;
 
-    // Default is "f64"
+    // Default is "f64" for floats
     let y = 2.5;
 
     // Add explicit type
